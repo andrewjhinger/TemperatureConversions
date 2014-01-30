@@ -5,11 +5,11 @@ Windows console application
 
 ###Concepts used:
 
-Text..
+Struct Data Type and Casting.
 
 ###Functionality:
 
-Text..
+Dynamically convert temps from F, C, and K. 
 
 
 ![alt tag](https://raw.github.com/andrewjhinger/TemperatureConversions/master/Capture.JPG)
